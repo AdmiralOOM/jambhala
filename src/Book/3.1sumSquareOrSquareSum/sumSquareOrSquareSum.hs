@@ -10,7 +10,7 @@
 --                            then (x^2 + y^2)
 --                            else (x+y)^2
 
--- EXAMPLE 3 --
+-- EXAMPLE 3: --
 --body sumSquare squareSum = if sumSquare > squareSum
 --                            then sumSquare
 --                            else squareSum
